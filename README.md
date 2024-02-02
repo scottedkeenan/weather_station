@@ -11,4 +11,4 @@ All times:
 - Activate the environment `source ./venv/bin/activate`
 - Start server `python app.py`
 
-Then open `file:///home/scott/Development/py_websockets/index.html` in a web browser on the same machine
+Then open `file:///path/to/your/dir/weather_station/index.html` in a web browser on the same machine
