@@ -7,7 +7,7 @@ First time:
 - Create virtual environment `python3 -m venv ./venv`
 - Install required packages `pip install -r requirements.txt`
 
-Subsequent times:
+All times:
 - Activate the environment `source ./venv/bin/activate`
 - Start server `python app.py`
 
